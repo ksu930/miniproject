@@ -36,9 +36,11 @@ git에 대해 공부했던적이 있었지만, 1인 프로젝트만 하다보니
 ## :hammer: Technology Stack
 1. React
 2. Redux(thunk,toolkit)
-3. axios
-4. json-server(목데이터)
-5. react-intersection-observer(무한스크롤)
+3. Vercel
+4. Axios
+5. Styled-component
+6. Json-server(목데이터)
+7. React-intersection-observer(무한스크롤)
 
 <br/>
 
@@ -46,7 +48,7 @@ git에 대해 공부했던적이 있었지만, 1인 프로젝트만 하다보니
 1. 오경민(Frontend)
 2. 김성욱(Frontend)
 3. 박혜민(Frontend)
-1. 송제윤(Backend)
-2. 강진구(Backend)
-3. 김정훈(Backend)
-4. 정규재(Backend)
+4. 송제윤(Backend)
+5. 강진구(Backend)
+6. 김정훈(Backend)
+7. 정규재(Backend)
