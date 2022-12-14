@@ -1,6 +1,6 @@
 # 미니프로젝트 "항해그램" (React)
 ### :link: [Main Repository 바로가기](https://github.com/ogaeng1/mini-FE "깃허브")
-### :link: [프로젝트 바로가기](https://miniproject-plum.vercel.app/ "프로젝트")
+### :link: [프로젝트 바로가기](http://mini--project.s3-website.ap-northeast-2.amazonaws.com "프로젝트")
 
 <br/>
 
